@@ -1,0 +1,1 @@
+the main purpose of abstract factory is to allow sub-classes to choose the type of objects to create
